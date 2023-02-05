@@ -1,24 +1,50 @@
-### Olá! Sou Pedro Augusto 🖥️
-[![Blog](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://www.float.com.br)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/x4k4l/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/pedro.ars)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedroaugustorsilva/)<br/>
+## Olá! Sou o Pedro Augusto 🖥️
+
+- Migrando para área de programação React
+- Aprimorando meus conhecimentos em JS
+
+<div>
+  <a href="https://github.com/pedroarsilva"></a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedroarsilva&show_icons=true&theme=dracula&include_all_comits-true&count_private-true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroarsilva&layout=compact&langs_count=16&theme=dracula"/>
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Pedro-JS" height="38" width="40" scr"
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img align="center" alt="Pedro-ReactJS" height="38" width="40" scr"
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img align="center" alt="Pedro-NodeJS" height="38" width="40" scr"
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img align="center" alt="Pedro-HTML" height="38" width="40" scr"
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img align="center" alt="Pedro-CSS" height="38" width="40" scr"
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img align="center" alt="Pedro-Django" height="38" width="40" scr"
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
+</div>
+ 
+##
+<div>
+  <a href="https://www.float.com.br" target="_blank"><img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white"></a>
+  <a href="https://instagram.com/pedro.ars" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://www.facebook.com/x4k4l/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
+  <a href="malito:pedroarsilva.ti@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/pedroaugustorsilva" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</div>
+
 ## Sistema Operacional
 [![LINUX](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)]()
 ##
-![Pedro GitHub stats](https://github-readme-stats.vercel.app/api?username=pedroarsilva&show_icons=true&theme=dracula)<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedroarsilva&layout=compact)](https://github.com/anuraghazra/github-readme-stats)<br/>
-## Tecnologias que uso
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
-[![ReactJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]()
-[![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)]()
-[![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)]()
-## Próximas Tecnologias a aprender
-[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)]()
-[![ReactNT](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]()
 
+## Próximas Tecnologias a aprender
+<div>
+<img align="center" alt="Pedro-TypeScipt" height="38" width="40" scr"
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+<img align="center" alt="Pedro-NextJS" height="38" width="40" scr"
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+
+</div>    
+                                                                                                 
 
 ## Hobbies
 [![Netflix](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white)]()
